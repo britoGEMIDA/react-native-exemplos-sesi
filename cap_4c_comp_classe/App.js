@@ -6,7 +6,7 @@ import OlaMundo from './components/OlaMundo';
 export default function App() {
   return (
     <View style={styles.container}>
-      <OlaMundo nome='Leitor!'/>
+      <OlaMundo nome='Fernando!'/>
       <StatusBar style="auto" />
     </View>
   );
