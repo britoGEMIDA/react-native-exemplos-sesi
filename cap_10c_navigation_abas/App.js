@@ -1,6 +1,6 @@
 import React from 'react';
-import Evento from './componentes/Evento';
-import UsuarioGithub from './componentes/UsuarioGithub';
+import Evento from './components/Evento';
+import UsuarioGithub from './components/UsuarioGithub';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { NavigationContainer } from '@react-navigation/native';
 const Tab = createBottomTabNavigator();
